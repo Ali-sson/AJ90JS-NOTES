@@ -28,7 +28,7 @@ These methods allow you to perform a wide range of operations on arrays in JavaS
 5. **Sorting/Ordering**:
    - `sort()`: Sort elements in place.
    - `reverse()`: Reverse the order of elements.
-
+  
 6. **Transforming**:
    - `map()`: Create a new array with transformed elements.
    - `reduce()`: Accumulate values with a function.

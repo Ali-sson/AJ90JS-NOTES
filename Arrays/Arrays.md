@@ -69,7 +69,7 @@ let sliced = arr.slice(1, 4);
 // sliced is [2, 3, 4]
 ```
 
-7. `splice()`: Changes the contents of an array by removing, replacing, or adding elements.
+ 7. `splice()`: Changes the contents of an array by removing, replacing, or adding elements.
 
 ```javascript
 let arr = [1, 2, 3, 4, 5];
