@@ -35,7 +35,7 @@ const sum = numbers.reduce((accumulator, currentValue) => accumulator + currentV
 Example:
 
 ```javascript
-const numbers = [1, 2, 3, 4, 5];
+const numbers = [1, 2, 3, 4, 5, 6];
 const evens = numbers.filter(num => num % 2 === 0);
 // evens is now [2, 4]
 ```
