@@ -9,3 +9,7 @@ function MinToSec(Min){
 let Minutes = 60;
 let seconds = MinToSec(Minutes)
 console.log(` There are ${seconds} seconds in ${Minutes} Minutes`)
+
+function sum(a,b){
+    let add = a =
+}
