@@ -1,0 +1,16 @@
+#Header h1 {
+     color: rgb(141, 23, 68);
+     text-align: center;
+}
+
+#intro {
+     text-align: center;
+}
+
+.importance h2 {
+     text-decoration: underline;
+}
+
+#footer {
+     text-align: center    ;
+}
